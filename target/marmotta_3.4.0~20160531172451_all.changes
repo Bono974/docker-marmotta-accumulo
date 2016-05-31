@@ -1,0 +1,20 @@
+Format: 1.8
+Date: Tue, 31 May 2016 17:26:29 +0200
+Source: marmotta
+Binary: marmotta
+Architecture: all
+Version: 3.4.0~20160531172451
+Distribution: ldstack-nightly
+Urgency: low
+Maintainer: Apache Marmotta Community <dev@marmotta.apache.org>
+Changed-By: Apache Marmotta Community <dev@marmotta.apache.org>
+Description:
+ marmotta - Apache Marmotta is an Open Platform for Linked Data.
+Changes:
+ marmotta (3.4.0~20160531172451) ldstack-nightly; urgency=low
+Checksums-Sha1:
+ 399d05d8bc72bfeb25572426b14f1477890142d6 51690236 marmotta_3.4.0~20160531172451_all.deb
+Checksums-Sha256:
+ 0f59e90306f00aa0c12739e33f61754596ccb10eb3c9edf26acd296883d16345 51690236 marmotta_3.4.0~20160531172451_all.deb
+Files:
+ a29748d29a174df38215fdb874ef3e4e 51690236 java extra marmotta_3.4.0~20160531172451_all.deb
